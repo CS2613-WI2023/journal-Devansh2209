@@ -1,0 +1,40 @@
+19 March 2023
+Today, I began my journey to learn how to program in MATLAB, a powerful computing language used in a variety of fields, such as engineering, physics, and finance. My main focus for today was on loading data and plotting, which are essential skills for data analysis.
+
+I learned how to import data from a file into MATLAB using the importdata function, which allows me to easily load data in various formats, such as .csv and .txt files. Once I loaded the data, I was able to visualize it using MATLAB's powerful plotting functions. I learned how to create line plots, scatter plots, and bar charts, which will be useful for visualizing my data in the future.
+
+Next, I moved on to structures and cell arrays, which are useful data structures for organizing and manipulating data in MATLAB. Structures are similar to dictionaries in other programming languages and allow me to store data in a hierarchical manner. Cell arrays, on the other hand, allow me to store data of different types in a single array. I can access and manipulate these data structures using MATLAB's indexing and slicing syntax.
+
+After learning about data structures, I moved on to data types and data type conversion. In MATLAB, variables can be of different types, such as numeric, character, or logical. I learned how to convert variables from one type to another, which will be useful for data cleaning and manipulation. Additionally, I learned about the repercussions of no strict typing, which can lead to unexpected errors if variables are not properly checked and converted.
+
+Next, I learned about shaping and indexing arrays, which are important skills for working with multidimensional arrays in MATLAB. I can reshape arrays to change their dimensions, and I can use indexing and slicing to access specific elements or subsets of an array. This will be useful for analyzing large datasets.
+
+I then moved on to implicit vs. explicit looping, which is a fundamental concept in programming. In MATLAB, I can use a for loop to iterate over elements in an array or perform a task a specific number of times. However, I learned that MATLAB also has powerful vectorized functions that can perform the same task more efficiently without the need for explicit looping.
+
+I then learned about matrix operations, which are fundamental operations in linear algebra. In MATLAB, I can perform operations such as addition, subtraction, multiplication, and inversion on matrices using simple syntax.
+
+Next, I learned about functions and function handles, which are important for modularizing code and making it reusable. In MATLAB, I can define my own functions using the function keyword, and I can also pass functions as arguments to other functions using function handles.
+
+After that, I learned about toolboxes, which are collections of functions and algorithms that extend MATLAB's capabilities. There are many different toolboxes available for various fields, such as signal processing, image processing, and statistics.
+
+Finally, I learned about pre-allocation and basic machine learning. Pre-allocation is an optimization technique that allows me to allocate memory for arrays before filling them with data, which can improve code performance. Additionally, I learned about basic machine learning concepts such as classification and regression, which will be useful for analyzing and predicting trends in my data.
+
+Overall, today was a great start to my journey of learning MATLAB. I look forward to applying these skills to real-world data analysis tasks and continuing to expand my knowledge of MATLAB's capabilities.
+
+
+24 March 2023
+Continuing from where I left off, today I focused on learning about some of the more advanced features of MATLAB, including error handling, debugging, and optimization.
+
+I began by learning about error handling and how to use try-catch blocks to gracefully handle errors in my code. This is particularly important when working with large datasets or complex algorithms, as errors can easily arise and cause my program to crash.
+
+Next, I learned about debugging and how to use MATLAB's built-in debugging tools to identify and fix errors in my code. This includes setting breakpoints, stepping through code line by line, and inspecting variables at different stages of execution.
+
+After that, I learned about optimization techniques and how to use MATLAB's optimization toolbox to solve complex optimization problems. This includes linear programming, nonlinear programming, and constrained optimization, which are all important tools for data analysis and decision-making.
+
+I also continued to practice my skills in loading data and manipulating arrays using MATLAB's indexing and slicing syntax. I learned how to reshape arrays, concatenate arrays, and convert between data types, which will be useful for data cleaning and preprocessing.
+
+Additionally, I delved deeper into machine learning, focusing on more advanced techniques such as deep learning and neural networks. I learned how to use MATLAB's deep learning toolbox to build and train neural networks for image classification and other applications.
+
+Finally, I explored some of the more specialized toolboxes available in MATLAB, including toolboxes for finance, control systems, and optimization. These toolboxes provide powerful algorithms and functions that can streamline my work in these specific areas.
+
+Overall, I feel like I have made significant progress in my journey to learn MATLAB. I have gained a solid understanding of the language's core features and have started to explore some of the more advanced topics. I look forward to continuing to build my skills and applying them to real-world data analysis tasks
